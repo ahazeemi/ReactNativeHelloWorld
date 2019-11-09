@@ -1,4 +1,4 @@
-package com.firstapp;
+package com.reactnativeapp;
 
 import android.app.Application;
 import android.content.Context;
